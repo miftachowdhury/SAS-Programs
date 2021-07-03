@@ -418,7 +418,7 @@ LABEL
 		PARTIC_GROUP	= 'Participant group: C/P'
 		ParticipantID	= 'Participant ID'
 		Q1 			= 'Q1: [Q1 TEXT]'
-		Q2			= 'Q2: [Q2 TEXT]''
+		Q2			= 'Q2: [Q2 TEXT]'
 		Q3			= 'Q3: [Q3 TEXT]'
 		Q4			= 'Q4: [Q4 TEXT]'
 		Q5			= 'Q5: [Q5 TEXT]'
